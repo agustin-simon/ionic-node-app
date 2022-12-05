@@ -1,0 +1,75 @@
+.list, .item-content, .item-complex {
+    --ion-background-color: transparent !important;
+}
+
+.home-row-logo {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.fullscreen {
+    width: 100%;
+    height: 100%;
+}
+
+.home-col-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.home-row-form {
+    width: 100%;
+    height: 50%;
+    border-bottom: 1px solid white;
+}
+
+.home-col-form{
+    width: 20%;
+    padding: 12px;
+}
+
+.home-col-form form{
+    width: 100%;
+    height: 100%;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.home-btn-form {
+    margin-top: 2em;
+    width: 100%;
+    height: 3.5em;
+    box-shadow: 0 1px 6px rgb(93, 94, 93);
+    font-weight: bold;
+}
+
+.home-item{
+    border-radius: 5px;
+    margin-top: 5px;
+    width: 100%;
+    color: white;
+}
+
+.home-register-btn {
+    height: 4em;
+    border: 1px solid rgb(152, 151, 151);
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgb(93, 94, 93);
+    font-weight: bold;
+}
+
+.col-footer {
+    margin-top: 20px;
+}
+

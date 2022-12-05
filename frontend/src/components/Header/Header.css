@@ -1,0 +1,12 @@
+.header-box {
+    --ion-background-color:#34b54e;
+}
+
+.header-icon {
+    --ion-background-color: red;
+}
+
+.header-icon-bell{
+    font-size: 23px;
+    padding: 20px;
+}

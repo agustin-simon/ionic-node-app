@@ -1,0 +1,41 @@
+.card-match {
+    padding: 5px;
+}
+
+.card-box-club-img {
+    width: 4em;
+    height: 4em;
+    border-radius: 10px!important;
+    background: url('https://civideportes.com.co/wp-content/uploads/2019/08/Cancha-de-f%C3%BAtbol-11-768x512.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;  
+    padding: 0; 
+}
+
+.card-box-club-data {
+    display: flex;
+    flex-direction: column;
+    justify-items: space-around;
+    align-items: center;
+    width: 60%; 
+    padding: 12px;  
+}
+
+.card-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-club-img {
+    width: 4em;
+    height: 4em;
+    border-radius: 20%!important;
+    background: url('https://civideportes.com.co/wp-content/uploads/2019/08/Cancha-de-f%C3%BAtbol-11-768x512.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;   
+}

@@ -1,0 +1,10 @@
+.card-profile-img {
+    width: 2.8em;
+    height: 2.8em;
+    border-radius: 100%!important;
+    background: url('https://images.unsplash.com/profile-fb-1527368999-01bec71421e9.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=128&h=128');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;   
+}

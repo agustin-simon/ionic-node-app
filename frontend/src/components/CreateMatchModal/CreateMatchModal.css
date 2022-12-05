@@ -1,0 +1,79 @@
+.create-grid {
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.create-banner-col {
+    height: 4em;
+    background-color: #34b54e;
+}
+
+.create-circle-box {
+    display: flex;
+    justify-content: flex-end;
+    right: 40px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.create-circle {
+    width: 3em;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -25px;
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+}
+
+.create-circle-icon {
+    font-size: 35px;
+    color: #34b54e;
+}
+
+.create-item-list {
+    width: 100%;
+}
+
+.create-list-clubes {
+    width: 100%;
+    height: 10em;
+    overflow: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.create-col-hour {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    width: 5%;
+    font-family: 'Roboto-Thin';    
+}
+
+.create-col-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;    
+    width: 2%;
+    font-family: 'Roboto-Thin';   
+}
+
+.create-row-selects {
+    margin-top: 1.5em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-col-select {
+    padding: 10px;
+    text-align: center;
+}

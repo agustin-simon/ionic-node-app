@@ -1,0 +1,23 @@
+.menu-container {
+    --ion-background-color:#34b54e;
+    --ion-text-color: white;
+}
+
+.menu-toolbar {
+    height: 8em;
+    --ion-font-family: 'Roboto-Italic';    
+}
+
+.menu-content {
+    --ion-font-family: 'Roboto-Italic'; 
+}
+
+.menu-icon {
+    margin-right: 15px;
+}
+
+.link-form {
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
